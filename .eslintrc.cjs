@@ -20,6 +20,7 @@ module.exports = {
   rules: {
     'react/react-in-jsx-scope': 'off',
     'react/prop-types': 'off',
-    'typescript-react/no-confusing-void-expression': 'off'
+    'typescript-react/no-confusing-void-expression': 'off',
+    '@typescript-eslint/no-confusing-void-expression': 'off'
   }
 }
